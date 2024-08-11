@@ -1,1 +1,1 @@
-testrun.
+test .
